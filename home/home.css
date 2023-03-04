@@ -186,10 +186,10 @@
     color: white;
 
 }
-.abroad{
+/* .abroad{
     
 
-}
+} */
 .abroadHead{
     background-color: cadetblue;
     color: white;
@@ -216,13 +216,13 @@
 
 .three-box{
     width: 100%;
-    margin-left: 15%;
+    margin-left: 12%;
     margin-top: 50px;
     height: 80px;
     position: relative;
     display: flex;
-    margin-bottom: 50%;
-   
+    margin-bottom: 30%;
+
 }
 .box1{
     width: 200px;
@@ -236,7 +236,21 @@
     text-align: center;
     font-weight: 10;
     color: rgb(123, 117, 117);
+    padding: 20px;
 
+}
+.three-box h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.three-box h4{
+    font-size: 18px;
+    font-style: italic;
+    color: black;
+    /* top: 125px; */
 }
 .box2{
     width: 200px;
@@ -244,9 +258,13 @@
     /* background-color: rgb(253, 249, 249); */
     display: block;
     position: relative;
-    border: 1px solid black;
+    border: 1px solid rgb(215, 238, 10);
     float: left;
     margin-right: 20px;
+    text-align: center;
+    font-weight: 10;
+    color: rgb(123, 117, 117);
+    padding: 20px;
     
 }
 .box3{
@@ -255,6 +273,11 @@
     /* background-color: rgb(253, 249, 249); */
     display: block;
     position: relative;
-    border: 1px solid black;
+    border: 1px solid rgb(7, 240, 38);
     float: left;
+    margin-right: 20px;
+    text-align: center;
+    font-weight: 10;
+    color: rgb(123, 117, 117);
+    padding: 20px;
 }
