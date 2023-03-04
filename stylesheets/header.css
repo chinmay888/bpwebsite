@@ -1,0 +1,23 @@
+
+.leftpart{
+    position: relative;
+    float: left;
+    margin-left: 18%;
+}
+.text1{ position: relative;
+    margin-left: 28%;
+    bottom: 7rem;
+    font-size: 25px;
+    color: #719f82;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text2{
+    position: relative;
+    margin-left: 28%;
+    bottom: 7rem;
+    font-size: 18px;
+}
+.rightpart{
+    float: right;
+    margin-right: 18%;
+}
