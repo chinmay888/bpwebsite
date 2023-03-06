@@ -1,18 +1,18 @@
-.info-100 {
+.page {
     width: 100%;
     height: auto;
     float: left;
     margin-bottom: 20px;
 }
 
-.info-area {
+.page-info {
     width: 1000px;
     height: auto;
     margin: auto;
     padding-top: 30px;
 }
 
-.title-wel-2 {
+.title {
     width: 100%;
     min-height: 5px;
     background: #009f82;
@@ -25,11 +25,10 @@
     border-radius: 7px;
 }
 
-.text-inn {
+.label {
     width: 101%;
     height: auto;
     float: left;
-    text-align: justify;
     margin-left: 10px;
 }
 
