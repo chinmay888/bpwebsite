@@ -1,3 +1,17 @@
+.page {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.page-info {
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    padding-top: 30px;
+}
+
 .title {
     width: 100%;
     min-height: 48px;
@@ -12,7 +26,7 @@
 
 }
 
-.text-inn {
+.label {
     width: 101%;
     height: auto;
     float: left;
@@ -39,7 +53,7 @@
     text-align: center;
 }
 
-.conta-tect-box {
+.contact-box {
     width: 380px;
     height: auto;
     float: left;
@@ -50,13 +64,6 @@
     margin-top: 10px;
 }
 
-.text-inn {
-    width: 101%;
-    height: auto;
-    float: left;
-    text-align: justify;
-    margin-left: 10px;
-}
 
 .enquiry-left-box {
     width: 401px;
@@ -89,16 +96,14 @@
     font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
-.info-100 {
-    width: 100%;
-    height: auto;
+.readmore-2 {
+    width: 123px !important;
+    height: 47px !important;
     float: left;
-    margin-bottom: 20px;
-}
-
-.info-area {
-    width: 1000px;
-    height: auto;
-    margin: auto;
-    padding-top: 30px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFF;
+    background: #009f82;
+    margin-left: 169px;
+    font-size: 18px;
 }
